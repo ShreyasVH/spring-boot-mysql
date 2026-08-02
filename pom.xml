@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>25</java.version>
-		<mysql.connector.version>9.7.0</mysql.connector.version>
+		<mysql.connector.version>26.7.0</mysql.connector.version>
 		<lombok.version>1.18.46</lombok.version>
 		<version.plugin.version>2.21.0</version.plugin.version>
 	</properties>
